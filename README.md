@@ -1,4 +1,5 @@
-Na raiz do projeto execute: /n
+Na raiz do projeto execute: 
+
 python -m venv venv
 venv\Scripts\activate.bat
 
