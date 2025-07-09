@@ -1,6 +1,7 @@
 Na raiz do projeto execute: 
 
 python -m venv venv
+
 venv\Scripts\activate.bat
 
 Após acessar o venv, instale as bibliotecas usando:
