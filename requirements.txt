@@ -3,3 +3,4 @@ sounddevice
 speechrecognition
 pyttsx3
 numpy
+customtkinter
